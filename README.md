@@ -1,4 +1,4 @@
-# ASaP
+# ASaP (by Maria)
 ASaP is a Windows desktop application built with WPF and .NET 8 for collecting anonymous patient satisfaction surveys. The app is designed for use in a hospital environment and presents a structured questionnaire, records responses locally, and can trigger update checks and notifications.
 
 ## Overview
